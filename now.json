@@ -1,5 +1,5 @@
 {
   "version": 2,
   "name": "wtf-pug",
-  "builds": [{ "src": "index.js", "use": "@now/node@canary" }]
+  "builds": [{ "src": "index.js", "use": "@now/node" }]
 }
